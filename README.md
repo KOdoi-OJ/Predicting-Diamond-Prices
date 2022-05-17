@@ -19,6 +19,7 @@ The linear regression model provides an equation that you can use to predict dia
 - [**diamonds.csv**](https://github.com/KOdoi-OJ/Predicting-Diamond-Prices/blob/main/datasets/diamonds.csv) contains the data used to build the regression model.
 - [**new_diamonds.csv**](https://github.com/KOdoi-OJ/Predicting-Diamond-Prices/blob/main/datasets/new-diamonds.csv) contains the data for the diamonds the company would like to purchase.
 ![Dataset Preview](https://video.udacity-data.com/topher/2017/February/58a4de9c_data-snapshot/data-snapshot.png)
+
 Both datasets contain carat, cut, and clarity data for each diamond. Only the *diamonds.csv* dataset has prices. You'll be predicting prices for the *new_diamonds.csv* dataset.
 - *Carat* represents the weight of the diamond, and is a numerical variable.
 - *Cut* represents the quality of the cut of the diamond, and falls into 5 categories: fair, good, very good, ideal, and premium. Each of these categories are represented by a number, 1-5, in the *Cut_Ord* variable.
