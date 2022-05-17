@@ -72,3 +72,5 @@ Rather than submitting this project, you can self-assess by looking at a sample 
 The final submission, accepted after review, is [here](https://github.com/KOdoi-OJ/Predicting-Diamond-Prices/blob/main/Kwame%20Odoi%20Otchere%20-%20Predicting%20Diamond%20Prices%20submission.pdf). The other deliverables can also be found here: [predictions for original diamonds](https://github.com/KOdoi-OJ/Predicting-Diamond-Prices/blob/main/datasets%20with%20predictions/diamonds%20with%20predictions.xlsx), [new predictions](https://github.com/KOdoi-OJ/Predicting-Diamond-Prices/blob/main/datasets%20with%20predictions/new-diamonds%20with%20predictions.xlsx), and [Alteryx workflow](https://github.com/KOdoi-OJ/Predicting-Diamond-Prices/blob/main/Practice%20Project%20-%20Predict%20Diamond%20Prices%20with%20Alteryx.yxmd)
 ## Credits
 Credit to Udacity for the materials and the mentors
+
+*This project was completed (with final approval) on February 23, 2022*
