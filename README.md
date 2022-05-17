@@ -61,7 +61,7 @@ The steps without descriptions are same as in the First Section, i.e., this sect
 - You have more potential predictor variables
 - You now know how to use categorical variables, so no need to rely only on ordinal variables.
 - When using Alteryx, you do not need to manually create dummy variables before building the model. If you select a categorical variable, like cut or clarity, then Alteryx will automatically create the dummy variables and give you the correct regression output.
-- 
+
 **Step 3 – Calculate the predicted price for diamond**
 
 **Step 4 – Make a recommendation**
